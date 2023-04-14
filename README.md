@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 - 👨‍🎓  NCU.
 - 🌱 I’m currently learning Python.
 - ⚡ Fun fact:I love dogs.
-<br/>
-<br/>
-<br/>
+
 <br/>
 
 # About My Github

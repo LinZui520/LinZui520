@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinZui520&layout=compact)](https://github.com/LinZui520/github-readme-stats)
-![LinZui520's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinZui520&show_icons=true&theme=tokyonight)
+<a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=LinZui520&show_icons=true&count_private=false&theme=vue-dark" /></a>

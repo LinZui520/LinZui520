@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 # About My Github
 <div align="left">
-<img height='180' width='45%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinZui520&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
-<img height='180' width='45%' src="https://github-readme-stats.vercel.app/api?username=LinZui520&show_icons=true&theme=cobalt" align="center" />
+<img height='180' width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinZui520&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
+<img height='180' width='40%' src="https://github-readme-stats.vercel.app/api?username=LinZui520&show_icons=true&theme=cobalt" align="center" />
 </div>  
 
 ![](https://raw.githubusercontent.com/LinZui520/LinZui520/output/github-contribution-grid-snake.svg)

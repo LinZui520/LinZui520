@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 - 🍒  A student who loves software development.
 - 📍  南昌.
 - 👨‍🎓  NCU.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python.
+- ⚡ Fun fact:I love dogs.
 <br/>
-<br>
+<br/>
+<br/>
 
 # About My Github
 <div align="left">

@@ -12,13 +12,13 @@ on:
 
   workflow_dispatch:
 
-  # run on every push on the master branch
+  # run on every push on the main branch
 
   push:
 
     branches:
 
-      - master
+      - main
 
 jobs:
 
@@ -50,13 +50,13 @@ jobs:
 
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push github-contribution-grid-snake.svg to the main branch
 
         uses: crazy-max/ghaction-github-pages@v2.6.0
 
         with:
 
-          target_branch: output
+          target_branch: main
 
           build_dir: dist
 

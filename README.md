@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LinZui520/LinZui520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinZui520&layout=compact)](https://github.com/LinZui520/github-readme-stats)
+
+### Hi there 👋
+### I'm Yangming He
+<br>
 
 # About My Github
 <div align="left">

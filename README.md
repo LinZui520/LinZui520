@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinZui520&layout=compact)](https://github.com/LinZui520/github-readme-stats)
-<a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=LinZui520&show_icons=true&count_private=false&theme=vue-dark" /></a>
+
+# About My Github
+<div align="left">
+<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinZui520&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
+<img height='180' src="https://github-readme-stats.vercel.app/api?username=LinZui520&show_icons=true&theme=cobalt" align="center" />
+</div>  
+
+<br/>  

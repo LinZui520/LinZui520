@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 # About My Github
 
 <div align="center">
-<img height='164' src="https://github-readme-stats-kckndz264-linzui520.vercel.app/api/top-langs/?username=LinZui520&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
+<img height='164' src="https://github-readme-stats-kckndz264-linzui520.vercel.app/api/top-langs/?username=LinZui520&hide=Jupyter+Notebook,ruby,javascript,Makefile,Less,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
 <img height='164' src="https://github-readme-stats-kckndz264-linzui520.vercel.app/api?username=LinZui520&show_icons=true&theme=cobalt" align="center" />
 </div>  
 

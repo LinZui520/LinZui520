@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-<!-- <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/> -->
 
 ### I'm Yangming He
 <br/>
@@ -28,10 +27,6 @@ Here are some ideas to get you started:
 <br/>
 
 # About My Github
-<!-- <div align="center">
-<img height='164' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinZui520&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
-<img height='164' src="https://github-readme-stats.vercel.app/api?username=LinZui520&show_icons=true&theme=cobalt" align="center" />
-</div>   -->
 
 <div align="center">
 <img height='164' src="https://github-readme-stats-kckndz264-linzui520.vercel.app/api/top-langs/?username=LinZui520&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />

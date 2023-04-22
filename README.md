@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 ## About My Github
 
 <div align="center">
-<img height='164' src="https://github-readme-stats-anwmzs6kw-linzui520.vercel.app/api/top-langs/?username=LinZui520&layout=compact&langs_count=6&theme=cobalt" align="center" />
-<img height='164' src="https://github-readme-stats-anwmzs6kw-linzui520.vercel.app/api?username=LinZui520&show_icons=true&theme=cobalt" align="center" />
+<img height='164' src="https://github-readme-stats-anwmzs6kw-linzui520.vercel.app/api/top-langs/?username=LinZui520&layout=compact&langs_count=6&theme=cobalt" />
+<img height='164' src="https://github-readme-stats-anwmzs6kw-linzui520.vercel.app/api?username=LinZui520&show_icons=true&theme=cobalt" />
 </div>  
 
 ![](https://raw.githubusercontent.com/LinZui520/LinZui520/output/github-contribution-grid-snake.svg)
